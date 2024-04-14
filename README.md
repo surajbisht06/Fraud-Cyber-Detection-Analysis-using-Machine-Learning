@@ -1,5 +1,5 @@
 # <p align="center"> Fraud Detection System using Machine Learning </p>
-# <p align="center">![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/2c615903-036b-4e86-b6be-f918ef538681)
+# <p align="center">![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/1ac6cfb9-aa92-4271-9199-4eaa45f6fe9d)
 </p>
 
 ## Overview
@@ -51,7 +51,7 @@ plt.show()
 ```
 ###### Result: 
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/acf581f1-9322-4448-ab43-de832070a2ce)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/9cc6de4e-76a6-4a37-9c68-194cbfda1573)
 
 ## Model evaluation:
 #### Decision Tree Classifier Model
@@ -80,7 +80,7 @@ plt.show()
 
 ###### Result:
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/d051c597-d389-417b-b8bd-bb3c28882575)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/2f6a76a8-83fe-4b2c-9c51-fc084e5a6b71)
 
 #### Building A Decision Tree Classifier plot 
 
@@ -95,9 +95,7 @@ plt.show()
 
 ###### Result:
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/5d4f1929-7dbd-49e1-812b-66bf9a8c8409)
-
-
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/af1bb3a0-fa36-4461-9732-274d3e52e155)
 
 
 ### Random Forest classifier Model
@@ -127,7 +125,8 @@ plt.show()
 ```
 
 ###### Result:
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/c3969bb8-35d4-4181-bfb1-441b8fcf7ac6)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/de60e4b2-ce5b-4023-825a-b289802253f0)
+
 
 
 ### Logistic Regression Model
@@ -159,7 +158,8 @@ plt.show()
 ```
 
 ###### Result:
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/a5d63af0-59a1-4809-8a6a-8d0d0817a91c)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/51f3f17a-deb0-4681-80c2-f7c5f5ac011e)
+
 
 
 ### K-Nearest Neighbour Model 
@@ -197,7 +197,7 @@ plt.show()
 
 ###### Result:
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/b89dc7b8-5c4f-4fcc-8ce1-c6302dba3ce1)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/4b6e0f2a-2c10-4e53-9dc8-e3c9a9a41b55)
 
 
 ### Naive Bayes Model
@@ -237,7 +237,8 @@ data_table.shape
 ###### Result:
 ##### Confusion Matrix:
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/69fbd392-7a2c-461e-be2f-cd1b1d11e46a)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/7aecd666-3215-4529-9c93-576cdab32094)
+
 
 ##### Ploting Confusion Matrix Using Heat Map
 ```py
@@ -324,4 +325,5 @@ plt.show()
 
 ###### Result:
 
-![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/5fa90674-c1c9-4740-95c2-386dc0657bd9)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/8c83b4fe-6500-4b05-905b-debbc3c0a98f)
+
