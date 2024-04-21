@@ -237,7 +237,7 @@ data_table.shape
 ###### Result:
 ##### Confusion Matrix:
 
-![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/7aecd666-3215-4529-9c93-576cdab32094)
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/5ca15d8f-0cd3-4d5b-bfba-451ebd569c2e)
 
 
 ##### Ploting Confusion Matrix Using Heat Map
@@ -301,6 +301,7 @@ plt.show()
 
 ```
 ###### Result:
+![image](https://github.com/surajbisht06/Fraud-Cyber-Detection-Analysis-using-Machine-Learning/assets/158066824/10c70994-7401-4352-afed-eeb5e37ccf85)
 
 ![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/d6d7f150-c207-41cb-828f-7420452ff6bd)
 
